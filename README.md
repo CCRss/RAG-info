@@ -3,7 +3,7 @@
 ## Links:
 
 
-[https://huggingface.co/TokenBender/Navarna_v0_1_OpenHermes_Hindi/discussions/new](https://huggingface.co/TokenBender/Navarna_v0_1_OpenHermes_Hindi)
+[Hindi_example](https://huggingface.co/TokenBender/Navarna_v0_1_OpenHermes_Hindi)
 
 https://github.com/eric-mitchell/direct-preference-optimization
 
